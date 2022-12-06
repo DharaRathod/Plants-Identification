@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "230242266681",
+    "project_id": "plant-identification-e0e2e",
+    "storage_bucket": "plant-identification-e0e2e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:230242266681:android:af78d883de2807878167e8",
+        "android_client_info": {
+          "package_name": "com.example.plant_identification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "230242266681-ul2bl87v3dcli0nfmfqd71uv71d62luo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6s5wLLhlEw09BTvvoEq2LTnaBwZHjJNk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "230242266681-ul2bl87v3dcli0nfmfqd71uv71d62luo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
